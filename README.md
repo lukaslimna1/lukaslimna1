@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&reversal=false"/>
 
 # 👋 Olá 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&weight=700&size=32&pause=1000&color=11F7E1&background=6A04FF00&random=false&width=435&lines=Bem+Vindo+!)](https://git.io/typing-svg)
