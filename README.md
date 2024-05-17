@@ -86,7 +86,7 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=30A3DC)](mailto:lucasmslima1@gmail.com)
 
 ## 📊 Linguagens mais usadas
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=01VitorHugo&layout=compact&langs_count=7&theme=react)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaslimna1&layout=compact&langs_count=7&theme=react)
 
 ## 📈 GitHub Status
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=lukaslimna1&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
