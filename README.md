@@ -39,7 +39,7 @@
     <img align="center" alt="TypeScript" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> TypeScript
   </div>
   <div style="margin: 10px; border: 1px solid #ccc; padding: 10px;">
-    <img align="center" alt="Next.JS" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"> Next.JS
+    <img align="center" alt="Next.JS" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg"> Nest.JS
   </div>
   <div style="margin: 10px; border: 1px solid #ccc; padding: 10px;">
     <img align="center" alt="Node.JS" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> Node.JS
