@@ -7,6 +7,8 @@
 ## 📝 Sobre mim
 - Estudante de Análise e Desenvolvimento de Sistemas (Anhambi Morumbi)
 - Estudante de Desenvolvimento FullStack (SENAC Bauru)
+- Estudante de Web Designer (SENAC Bauru)
+- Formado em Tecnico em Assistencia de Produção Grafia (SENAC Bauru)
 - Apaixonado por tecnologia e conteúdo Geek
 
 ## 💻 Habilidades
@@ -35,6 +37,9 @@
 
 ## 📚 Estudando
 <div style="display: flex; flex-wrap: wrap;">
+<div style="margin: 10px; border: 1px solid #ccc; padding: 10px;">
+    <img align="center" alt="TypeScript" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> Figma
+  </div>
   <div style="margin: 10px; border: 1px solid #ccc; padding: 10px;">
     <img align="center" alt="TypeScript" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> TypeScript
   </div>
