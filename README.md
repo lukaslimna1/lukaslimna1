@@ -20,6 +20,9 @@
     <img align="center" alt="Photoshop" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"> Photoshop
   </div>
   <div style="margin: 10px; border: 1px solid #ccc; padding: 10px;">
+    <img align="center" alt="TypeScript" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> Figma
+  </div>
+  <div style="margin: 10px; border: 1px solid #ccc; padding: 10px;">
     <img align="center" alt="Adobe XD" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg"> Adobe XD
   </div>
   <div style="margin: 10px; border: 1px solid #ccc; padding: 10px;">
@@ -33,13 +36,14 @@
   </div>
   <div style="margin: 10px; border: 1px solid #ccc; padding: 10px;">
   </div>
+   <div style="margin: 10px; border: 1px solid #ccc; padding: 10px;">
+    <img align="center" alt="React" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> React
+  </div>
 </div>
 
 ## 📚 Estudando
 <div style="display: flex; flex-wrap: wrap;">
-<div style="margin: 10px; border: 1px solid #ccc; padding: 10px;">
-    <img align="center" alt="TypeScript" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> Figma
-  </div>
+
   <div style="margin: 10px; border: 1px solid #ccc; padding: 10px;">
     <img align="center" alt="TypeScript" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> TypeScript
   </div>
@@ -49,15 +53,7 @@
   <div style="margin: 10px; border: 1px solid #ccc; padding: 10px;">
     <img align="center" alt="Node.JS" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> Node.JS
   </div>
-  <div style="margin: 10px; border: 1px solid #ccc; padding: 10px;">
-    <img align="center" alt="Kotlin" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"> Kotlin
-  </div>
-  <div style="margin: 10px; border: 1px solid #ccc; padding: 10px;">
-    <img align="center" alt="Java" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> Java
-  </div>
-  <div style="margin: 10px; border: 1px solid #ccc; padding: 10px;">
-    <img align="center" alt="React" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> React
-  </div>
+ 
   <div style="margin: 10px; border: 1px solid #ccc; padding: 10px;">
     <img align="center" alt="SASS" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"> SASS
   </div>
